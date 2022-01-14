@@ -5,7 +5,7 @@
     <img src="readme-images/logo.png" alt="Logo" width="100" height="80">
   </a>
 
-  <h3 align="center">Will Hero</h3>
+  <h1 align="center">Will Hero</h1>
 
   <p align="center">
     An awesome game for your resume!
